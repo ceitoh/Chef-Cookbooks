@@ -1,4 +1,4 @@
 # apache
 
-TODO: Enter the cookbook description here.
+TODO: Cookbook to install Apache webserver.
 
